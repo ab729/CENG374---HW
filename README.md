@@ -47,5 +47,5 @@ In conclusion, this homework project demonstrates the ability to develop a dynam
 - MDN Web Docs: [https://developer.mozilla.org/](https://developer.mozilla.org/)
 
 ## Program Codes
-Program codes can be found in the project repository: [[link-to-repository](https://github.com/ab729/CENG374-Internet-Programming-HW)](#)
+Program codes can be found in the project repository: [[link-to-repository](https://github.com/ab729/CENG374-Internet-Programming-HW)]
 
