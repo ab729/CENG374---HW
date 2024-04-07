@@ -1,0 +1,39 @@
+.events-container {
+    margin-top: 20px;
+    padding: 20px;
+    font-family: "Oswald", sans-serif;
+}
+
+.event {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transition: box-shadow 0.4s;
+    box-shadow: 0px 0px 0px rgba(33, 33, 33, .2);
+    cursor: pointer;
+}
+
+.event:hover {
+    box-shadow: 10px 8px 6px rgba(33, 33, 33, .2);
+    background: #fff;
+}
+.event h3 {
+    color: #cc0000;
+    margin: 0 0 5px 0;
+}
+
+.event p {
+    margin: 0;
+    color: #333;
+}
+
+.event-time {
+    font-weight: bold;
+}
+
+.event-location {
+    margin-bottom: 10px;
+    color: #777;
+}

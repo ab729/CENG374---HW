@@ -1,0 +1,26 @@
+.container {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+}
+h1, h2 {
+    color: #cc0000;
+}
+.section  {
+    color: #cc0000;
+    margin: 0 0 5px 0;
+}
+.ename {
+    margin-left: 28px;
+    padding-top: 1rem;
+    font-size: 48px;
+    font-family: "Oswald", sans-serif;
+}
+p {
+    color: #333;
+    margin-left: 30px;
+}
+.section {
+    margin-bottom: 20px;
+}
